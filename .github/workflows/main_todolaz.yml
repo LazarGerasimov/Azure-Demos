@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'todolaz'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D9AFB95F2994F449B1066D6F83B9203 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFFF221016B14E54B5C40914B1FF8B1A }}
           package: .
